@@ -9,6 +9,8 @@
 
 ## Canlı Demo
 
+https://chat-app-liart-mu.vercel.app
+
 ## Screen Gif
 
 <img src="screen.gif" />
