@@ -97,7 +97,7 @@ const ChatPage = ({ room, setRoom }) => {
       </main>
 
       <form onSubmit={sendMessage}>
-        <input placeholder="mesajınızı yazınız..." type="text" required />
+        <input placeholder="Mesajınızı yazınız..." type="text" required />
         <button>Gönder</button>
       </form>
     </div>
